@@ -1,0 +1,43 @@
+{
+    'times': 
+    [
+        {
+            'flamengo' : {
+                'diretoria' : {
+                    'presidente' : {
+                        'nome' : 'Rodolfo Landim',
+                        'idade' : 66,
+                        'nascimento' : '24 de Março de 1957' 
+                    },
+                    'vice_presidnete' : 'Marcos Braz',
+                    'idade' : 52,
+                    'nascimento' : '21 de Abril de 1971'
+                },
+                elenco : {
+                    pedro : {
+                        nacionalidade : 'Brasil',
+                        idade :26,
+                        altura : 185,
+                        peso : 78,
+                        posicao : 'FW',
+                        camisa : 9
+                    },
+                    gabriel_barbosa : {
+                        nacionalidade : 'Brasil',
+                        idade :27,
+                        altura : 178,
+                        posicao : 'FW',
+                        camisa : 10
+                    },
+                    arrascaeta : {
+                        nacionalidade : 'Uruguai',
+                        idade :29,
+                        altura : 173,
+                        posicao : 'MF',
+                        camisa : 14
+                    }
+                },
+            }
+        }
+    ]
+}
