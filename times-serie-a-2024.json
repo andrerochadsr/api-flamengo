@@ -1,0 +1,31 @@
+{
+    "times" : [
+        {
+            "criciuma" : {
+                "elenco" : [
+                    {
+                        "Yuri" : {
+                            "posicao":"goleiro",
+                            "idade":31,
+                            "altura":199
+                        }
+                    },
+                    {
+                        "Rafael" : {
+                            "posicao" : "atacante",
+                            "idade": 28,
+                            "altura" : 188
+                        }
+                    },
+                    {
+                        "Pedro" : {
+                            "posiçao" : "meio campo",
+                            "idade" : 24,
+                            "altura" : 183
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}
